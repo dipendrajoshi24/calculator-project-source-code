@@ -1,2 +1,1 @@
-# calculator-source-code
-This calculator code write on Html Css And Java Script.
+#fully functional Calculator used technologies are HTML5, CSS3 and for backend we used JavaScript. 
