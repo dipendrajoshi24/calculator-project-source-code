@@ -1,4 +1,4 @@
-# Fully Functional Calculator Project
+# ...Fully Functional Calculator Project...
 
 A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScript**. This project demonstrates a clean, responsive design paired with robust functionality for basic mathematical operations.
 
@@ -12,7 +12,7 @@ A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScr
 # Technologies Used
 
 - **HTML5** for the structure
-- **CSS3** for styling and responsiveness
+- **CSS** for styling and responsiveness
 - **JavaScript** for backend logic and interactivity
 
 # Installation
