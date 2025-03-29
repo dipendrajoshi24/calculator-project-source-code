@@ -15,9 +15,4 @@ A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScr
 - **CSS** for styling and responsiveness
 - **JavaScript** for backend logic and interactivity
 
-# Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/calculator.git
-Author - Dipendra Joshi 
+# Author - Dipendra Joshi 
