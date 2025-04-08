@@ -8,7 +8,7 @@ A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScr
 - Addition, Subtraction, Multiplication, and Division
 - Clear button to reset calculations
 - Responsive design for various screen sizes
-- User-friendly interface with intuitive button layout
+- User-friendly interface with intuitive button layout.
 
 # Technologies Used
 
