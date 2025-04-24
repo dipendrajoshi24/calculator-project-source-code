@@ -16,4 +16,4 @@ A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScr
 - **CSS** for styling and responsiveness
 - **JavaScript** for backend logic and interactivity
 
-# Author - Dipendra Joshi
+ Author - Dipendra Joshi
