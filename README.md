@@ -10,6 +10,7 @@ A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScr
 - User-friendly interface with intuitive button layout.
 
 ## Technologies Used
+
 - **HTML5** for the structure
 - **CSS** for styling and responsiveness
 - **JavaScript** for backend logic and interactivity
