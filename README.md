@@ -10,4 +10,4 @@ A simple yet effective calculator built using **HTML5**, **CSS3**, and **JavaScr
 # Technologies Used
 - **HTML5** for the structure
 - **CSS** for styling and responsiveness
-- **JavaScript** for backend logic and interactivity
+- **JavaScript** for backend logic and  interactivity
